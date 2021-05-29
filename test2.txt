@@ -1,6 +1,7 @@
-<<<<<<< HEAD
+g<<<<<<< HEAD
 hfhe
 =======
 hf
 >>>>>>> main
+anananana
 anana
